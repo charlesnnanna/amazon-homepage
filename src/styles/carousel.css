@@ -1,0 +1,43 @@
+.carousel{
+    width: 400%;
+    height: 100px;
+    
+}
+
+#toys-image{
+    top: 0;
+    left: 0;
+}
+
+
+#not-visible{
+    z-index: -1;
+}
+
+#shop-image{
+    top: 0;
+    left: 100vw;
+}
+
+#computer-image{
+    top:0;
+    left: 200vw;
+}
+
+#fashion-image{
+    top:0;
+    left: 300vw;
+}
+
+#left-arrow{
+    top: 0;
+    left: 0;
+    z-index: 1000;
+    height: 200px;
+}
+
+#right-arrow{
+    top: 0;
+    right:0; 
+    height: 200px;
+}
